@@ -1,5 +1,5 @@
 ## Model
-## https://labs.msaez.io/#/189596125/storming/labshopmonolith-230822 (Req/Res 방식의 MSA 연동)
+## lab-shop-monolith-20250611 (Req/Res 방식의 MSA 연동)
 # Proxy 객체를 통한 동기호출 테스트
 https://labs.msaez.io/#/189596125/storming/labshopmonolith-230822
 
